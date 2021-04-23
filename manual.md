@@ -52,3 +52,20 @@ C:\Users\user-pc\Documents\GitHUB
   git add
 
   git commit
+
+---
+
+$ git status
+On branch edit_subtext
+Your branch is up to date with 'origin/edit_subtext'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        modified:   manual.md
+
+
+user-pc@DESKTOP-2L9D5K3 MINGW64 ~/Documents/GitHub/test-20210423-01 (edit_subtext)
+$ git commit
+hint: Waiting for your editor to close the file...
+
+Aborting commit due to empty commit message.
