@@ -34,3 +34,21 @@ C:\Users\user-pc\Documents\GitHUB
 
 ##subブランチ作ってみた
 
+## gitコマンド
+* ログを見る
+
+　git log
+
+* 状態を見る
+
+ git status
+
+ * ローカルリポジトリを作成する
+
+  該当フォルダに移動して、git init
+
+ * 変更をコミットする
+ 
+  git add
+
+  git commit
